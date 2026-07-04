@@ -39,8 +39,8 @@ My goal is to design **probabilistic AI models** and **sampling algorithms** tha
   - Applied Stochastic Process <!--(Lévy Process)-->
 
 **Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
-  - [Diffusion Model](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimate, Sequential Decision Making)
-  - [EM-Adaptation](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's *h*-transform, Expectation-Maximization)
+  - [Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) (Tweedie's Estimate, Sequential Decision Making)
+  - [EM-Adaptation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) (Doob's *h*-transform, Expectation-Maximization)
 
 **Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
   - Matrix Computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982) (Parallel Computing, Graph Structure Operations, GEMM)
