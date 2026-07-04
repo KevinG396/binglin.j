@@ -33,7 +33,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 My goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
 **🌟 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models), variational inference, distribution shift.
-  - [Controlled Measure Transport](https://arxiv.org/abs/2607.01144) (Variational Inference, Optimal Control on Flow Model)
+  - [Controlled Measure Transport](https://arxiv.org/abs/2607.01144) (Variational Inference, Optimal Control)
   - [Sampling](https://arxiv.org/abs/2607.01144) (SDE, Feynman-Kac Corrector)
   - MCTS for Search <!--(MCTS, Flow/Consistency Model)-->
   - Applied Stochastic Process <!--(Lévy Process)-->
