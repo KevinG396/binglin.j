@@ -32,10 +32,17 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 My goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
-**🌟 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models), like [**Controlled Measure Transport**](https://arxiv.org/abs/2607.01144), [**Sampling**](https://arxiv.org/abs/2607.01144), **MCTS for Search**, **Applied Stochastic Process**.
+**🌟 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models), variational inference, distribution shift.
+  - [Controlled Measure Transport](https://arxiv.org/abs/2607.01144) (Variational Inference, Optimal Control on Flow Model)
+  - [Sampling](https://arxiv.org/abs/2607.01144) (SDE, Feynman-Kac Corrector)
+  - MCTS for Search <!--(MCTS, Flow/Consistency Model)-->
+  - Applied Stochastic Process <!--(Lévy Process)-->
 
-**Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making, like [**Diffusion Model**](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694), [**EM-Adaptation**](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332).
+**Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
+  - [Diffusion Model](https://neurips.cc/virtual/2025/loc/san-diego/poster/116694) (Tweedie's Estimate, Sequential Decision Making)
+  - [EM-Adaptation](https://neurips.cc/virtual/2025/loc/san-diego/poster/115332) (Doob's *h*-transform, Expectation-Maximization)
 
-**Parallel AI Inference**: Accelerating AI inference (Neural Networks and Graph structures), like **Matrix Computation**, [**Graph Processing**](https://ieeexplore.ieee.org/document/11105982).
+**Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures).
+  - Matrix Computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982) (Parallel Computing, Graph Structure Operations, GEMM)
 
 😃 I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
