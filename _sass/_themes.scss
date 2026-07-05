@@ -206,3 +206,10 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+table,
+.table {
+  color: var(--global-text-color);
+  --bs-table-color: var(--global-text-color);
+  --bs-table-bg: transparent;
+}
