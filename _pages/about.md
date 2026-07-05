@@ -38,6 +38,8 @@ My goal is to design **probabilistic AI models** and **sampling algorithms** tha
   - MCTS for Search <!--(MCTS, Flow/Consistency Model)-->
   - Applied Stochastic Process <!--(Lévy Process)-->
 
+<p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/images/impfm.png" width="95%"> </p>
+
 **Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making.
   - [Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) (Tweedie's Estimate, Sequential Decision Making)
   - [EM-Adaptation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) (Doob's *h*-transform, Expectation-Maximization)
