@@ -31,7 +31,7 @@ My goal is to design **probabilistic AI models** and **sampling algorithms** tha
 **🌟 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models), variational inference, distribution shift.
   - [Controlled Measure Transport](https://arxiv.org/abs/2607.01144) (Variational Inference, Optimal Control)
   - [Sampling](https://arxiv.org/abs/2607.01144) (SDE, Feynman-Kac Corrector)
-  - MCTS for Search <!--(MCTS, Flow/Consistency Model)-->
+  - Monte Carlo Tree for Search <!--(MCTS, Flow/Consistency Model)-->
   - Applied Stochastic Process <!--(Lévy Process)-->
 
 <p align="center"> <img src="https://raw.githubusercontent.com/KevinG396/kevinji.github.io/master/images/impfm_dark.png" width="90%"> </p>
