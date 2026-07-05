@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color: #ffffff;">Our paper [Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) is accepted by NeurIPS 2025 🚀</span>
+Our paper [Active Target Discovery under Uninformative Prior: The Power of Permanent and Transient Memory](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) is accepted by NeurIPS 2025 🚀
