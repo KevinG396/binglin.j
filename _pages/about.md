@@ -34,19 +34,12 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 My goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
-**🌟 Probabilistic Inference**: Inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models), variational inference, distribution shift. My previous research includes:
-  - [Controlled Measure Transport](https://arxiv.org/abs/2607.01144) (Variational Inference, Optimal Control)
-  - [Sampling](https://arxiv.org/abs/2607.01144) (SDE, Feynman-Kac Corrector)
-  - Monte Carlo Tree for Search <!--(MCTS, Flow/Consistency Model)-->
-  - Applied Stochastic Process <!--(Lévy Process)-->
+🌟 **Probabilistic Inference**: Given the high sampling and computational cost of training generative models from scratch, inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models) play a crucial role in solving **Measure Transport** problems. My previous research leverages these techniques for this purpose, including: [Optimal Control over Drift](https://arxiv.org/abs/2607.01144), [Sampling](https://arxiv.org/abs/2607.01144), Monte Carlo Tree Search and Applied Stochastic Processes.
 
 <p align="center"> <img src="/assets/img/impfm_dark.png" width="90%"> </p>
 
-**Generative Modeling**: Probabilistic generative models and their applications in active discovery/decision making. My previous research includes:
-  - [Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) (Tweedie's Estimate, Sequential Decision Making)
-  - [EM-Adaptation](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) (Doob's *h*-transform, Expectation-Maximization)
+**Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: [Diffusion Model for active discovery/sequential decision making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html), [Expectation-Maximization via Doob's $h$-transform](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) for white-box decision making.
 
-**Parallel AI Inference**: Accelerating AI computation (Neural Networks and Graph structures). My previous research includes:
-  - Matrix Computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982) (Parallel Computing, Graph Structure Operations, GEMM)
+**Parallel AI Inference**: For complex, high-dimensional data representations (e.g., graph structures), computation itself poses a serious challenge. My previous research addresses this through parallel and scalable computing, including: parallelizing matrix computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982).
 
 I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
