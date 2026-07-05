@@ -38,7 +38,7 @@ My goal is to design **probabilistic AI models** and **sampling algorithms** tha
 
 
 <p align="center">
-  <img src="{{ '/assets/img/impfm_dark.png' | relative_url }}" width="90%">
+  <img src="/binglin.j/assets/img/impfm_dark.png" width="90%">
 </p>
 
 
