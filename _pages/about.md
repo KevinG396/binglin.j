@@ -34,9 +34,11 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 My goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
-🌟 **Probabilistic Inference**: Given the high sampling and computational cost of training generative models from scratch, inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models) play a crucial role in solving **Measure Transport** problems. My previous research leverages these techniques for this purpose, including: [Optimal Control over Drift](https://arxiv.org/abs/2607.01144), [Sampling](https://arxiv.org/abs/2607.01144), Monte Carlo Tree Search and Applied Stochastic Processes.
+🌟 **Probabilistic Inference**: Given the high sampling and computational cost of training generative models from scratch, inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models) play a crucial role in solving **Measure Transport** problems. My previous research leverages these techniques for this purpose, including: [Sampling](https://arxiv.org/abs/2607.01144), [Optimal Control over Drift](https://arxiv.org/abs/2607.01144), Monte Carlo Tree Search and Applied Stochastic Processes.
+
 
 <p align="center"> <img src="/assets/img/impfm_dark.png" width="90%"> </p>
+
 
 **Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: [Diffusion Models for active discovery/sequential decision making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [Expectation-Maximization via Doob's $h$-transform for white-box decision making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html).
 
