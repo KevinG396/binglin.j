@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 <style>
   .profile img {
-    max-width: 50%;
+    max-width: 75%;
   }
 </style>
 
