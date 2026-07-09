@@ -30,11 +30,11 @@ social: true # includes social icons at the bottom of the page
 
 I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I work on probabilistic AI, particularly principled and efficient probabilistic inference methods in high-dimensional space. I was advised by [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on AI inference and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI and sampling. Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
 
-### Research
+### Research Interests
 
 My goal is to design **probabilistic AI models** and **sampling algorithms** that efficiently address high-dimensional inference while remaining mathematically and computationally tractable. My research interests lie in:
 
-🌟 **Probabilistic Inference**: Given the high sampling and computational cost of training generative models from scratch, inference-time controlled sampling and posterior inference for probabilistic generative models (Diffusion/Flow/Consistency Models) play a crucial role in solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques for this purpose, including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144),  [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915) and Applied Stochastic Processes.
+🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDE/ODE provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and Applied Stochastic Processes.
 
 
 {% include figure.liquid path="assets/img/impfm_dark.png" width="90%" class="img-fluid" %}
