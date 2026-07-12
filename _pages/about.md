@@ -37,7 +37,7 @@ My goal is to design **probabilistic AI models** and **sampling algorithms** tha
 🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and Applied Stochastic Processes.
 
 
-{% include figure.liquid path="assets/img/impfm_dark.png" width="90%" class="img-fluid" %}
+{% include figure.liquid path="assets/img/impfm_dark.png" width="96%" class="img-fluid" %}
 
 
 **Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: [Diffusion Models for active discovery/sequential decision making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [<span style="color: #86C98F;">Expectation-Maximization via Doob's $h$-transform for white-box decision making</span>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html).
