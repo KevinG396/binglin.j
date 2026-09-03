@@ -32,7 +32,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 ### Research Interests
 
-My goal is to design **probabilistic models** and **sampling algorithms** that make high-dimensional inference tractable across scientific and engineering domains — both mathematically principled and computationally efficient. My research interests lie in:
+My goal is to design **probabilistic models** and **sampling algorithms** that are mathematically principled yet computationally efficient, making high-dimensional inference tractable in **scientific discovery** and **engineering**. My research interests lie in:
 
 🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and Applied Stochastic Processes.
 
