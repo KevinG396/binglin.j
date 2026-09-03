@@ -6,7 +6,7 @@ subtitle: <a href='#'>Washington University in St. Louis</a>.
 
 profile:
   align: right
-  image: https://github.com/KevinG396/binglin.j/blob/main/assets/img/ji.png
+  image: ji.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>binglin.j@wustl.edu</p>
