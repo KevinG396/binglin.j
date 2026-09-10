@@ -32,7 +32,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 ### Research Interests
 
-My goal is to design **probabilistic models** and **sampling algorithms** that are mathematically principled yet computationally efficient, making high-dimensional inference tractable in **scientific discovery** and **engineering**. My research interests lie in:
+My goal is to design **probabilistic models** and **sampling algorithms** that are mathematically principled yet computationally efficient, making high-dimensional inference tractable in **scientific discovery** and **engineering**. I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**. My research interests lie in:
 
 🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and [<span style="color: #FFD700;">Applied Stochastic Processes</span>](https://arxiv.org/abs/2609.06761).
 
@@ -43,5 +43,3 @@ My goal is to design **probabilistic models** and **sampling algorithms** that a
 **Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: [Diffusion Models for active discovery/sequential decision making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [<span style="color: #86C98F;">Expectation-Maximization via Doob's $h$-transform for white-box decision making</span>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html).
 
 **Parallel AI Inference**: For complex, high-dimensional data representations (e.g., graph structures), computation itself poses a serious challenge. My previous research addresses this through parallel computing, including: parallelizing Matrix Computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982).
-
-I am always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**.
