@@ -34,7 +34,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 My goal is to design **probabilistic models** and **sampling algorithms** that are mathematically principled yet computationally efficient, making high-dimensional inference tractable in **scientific discovery** and **engineering**. My research interests lie in:
 
-🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and Applied Stochastic Processes.
+🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and [<span style="color: #FFD700;">Applied Stochastic Processes</span>](https://arxiv.org/abs/2609.06761).
 
 
 {% include figure.liquid path="assets/img/impfm_dark.png" width="96%" class="img-fluid" %}
