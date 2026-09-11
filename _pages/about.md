@@ -71,7 +71,7 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
   <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p>🌟 <b>Probabilistic Inference</b>: <br>Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages some of these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Sampling</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Optimal Control over Drift</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Search Scheme</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Applied Stochastic Processes</span></a>.</p>
+  <p>🌟 <b>Probabilistic Inference</b> <br>Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages some of these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Sampling</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Optimal Control over Drift</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Search Scheme</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Applied Stochastic Processes</span></a>.</p>
 </div>
 
 
@@ -81,7 +81,7 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
   <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-    <p><b>Generative Modeling for Decision Making</b>: <br>Probabilistic generative models hold great potential for better modeling and solving sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #86C98F;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
+    <p><b>Generative Modeling for Decision Making</b> <br>Probabilistic generative models hold great potential for better modeling and solving sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #86C98F;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
 </div>
 
 
@@ -89,5 +89,5 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
   <video src="{{ '/assets/video/graph.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>Parallel AI Inference</b>: <br>For complex, high-dimensional data representations (e.g., graph structures), computation itself poses serious challenges in terms of performance and scalability. My previous research addresses this through high-performance/parallel computing techniques, including: parallelizing Matrix Computation and <a href="https://ieeexplore.ieee.org/document/11105982">Graph Processing</a>.</p>
+  <p><b>Parallel AI Inference</b> <br>For complex, high-dimensional data representations (e.g., graph structures), computation itself poses serious challenges in terms of performance and scalability. My previous research addresses this through high-performance/parallel computing techniques, including: parallelizing Matrix Computation and <a href="https://ieeexplore.ieee.org/document/11105982">Graph Processing</a>.</p>
 </div>
