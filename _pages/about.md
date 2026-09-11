@@ -61,11 +61,11 @@ social: true # includes social icons at the bottom of the page
   }
 </style>
 
-I'm Binglin (Kevin) Ji, a recent master's student in `Electrical Engineering` and `Computer Engineering` from [Washington University in St. Louis](https://washu.edu). I work on probabilistic AI, particularly principled and efficient probabilistic inference methods in high-dimensional space. I was advised by [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on AI inference and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI and sampling. Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences (Beijing)](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
+I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I work on probabilistic AI, particularly principled and efficient probabilistic inference methods in high-dimensional space. I was advised by [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on AI inference and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI and sampling. Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences (Beijing)](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
 
 ### Research Interests
 
-My goal is to design probabilistic models and sampling algorithms that are mathematically principled yet computationally efficient for high-dimensional inference. I'm always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**. My research interests lie in:
+My goal is to design `probabilistic models` and `sampling algorithms` that are mathematically principled yet computationally efficient for high-dimensional inference. I'm always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**. My research interests lie in:
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
