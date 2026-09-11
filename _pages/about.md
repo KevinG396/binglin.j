@@ -26,15 +26,22 @@ social: true # includes social icons at the bottom of the page
   .profile img {
     max-width: 85%;
   }
+  .sdm-block::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
   .sdm-video {
-    width: 100%;
+    float: left;
+    width: 16%;
     aspect-ratio: 1 / 1;
+    margin: 0.35rem 1rem 0.5rem 0;
+    border-radius: 0.25rem;
   }
   @media (max-width: 575.98px) {
     .sdm-video {
-      width: 45%;
-      display: block;
-      margin: 0 auto;
+      width: 32%;
+      margin-right: 0.75rem;
     }
   }
 </style>
@@ -51,15 +58,11 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
 {% include figure.liquid path="assets/img/impfm_dark.png" width="96%" class="img-fluid" %}
 
 
-<div class="row align-items-center">
-  <div class="col-sm-2 mb-3 mb-sm-0">
-    <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
-           class="img-fluid rounded sdm-video"
-           autoplay muted loop playsinline preload="metadata"></video>
-  </div>
-  <div class="col-sm-10">
+<div class="sdm-block">
+  <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
+         class="sdm-video"
+         autoplay muted loop playsinline preload="metadata"></video>
     <p><b>Generative Modeling</b>: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #86C98F;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
-  </div>
 </div>
 
 
