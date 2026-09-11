@@ -26,6 +26,7 @@ social: true # includes social icons at the bottom of the page
   .profile img {
     max-width: 85%;
   }
+  /* 手机：保持现在的文字环绕 */
   .sdm-block::after {
     content: "";
     display: block;
@@ -33,15 +34,31 @@ social: true # includes social icons at the bottom of the page
   }
   .sdm-video {
     float: left;
-    width: 16%;
+    width: 32%;
     aspect-ratio: 1 / 1;
-    margin: 0.35rem 1rem 0.5rem 0;
+    margin: 0.35rem 0.75rem 0.5rem 0;
     border-radius: 0.25rem;
   }
-  @media (max-width: 575.98px) {
+  
+  /* 电脑：视频与文字垂直居中并排 */
+  @media (min-width: 576px) {
+    .sdm-block {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .sdm-block::after {
+      content: none;
+    }
     .sdm-video {
-      width: 32%;
-      margin-right: 0.75rem;
+      float: none;
+      flex: 0 0 13%;
+      width: 13%;
+      margin: 0;
+    }
+    .sdm-block p {
+      margin-bottom: 0;
     }
   }
 </style>
