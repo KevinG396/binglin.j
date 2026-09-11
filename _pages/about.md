@@ -26,7 +26,6 @@ social: true # includes social icons at the bottom of the page
   .profile img {
     max-width: 85%;
   }
-  /* 手机：保持现在的文字环绕 */
   .sdm-block::after {
     content: "";
     display: block;
@@ -40,7 +39,6 @@ social: true # includes social icons at the bottom of the page
     border-radius: 0.25rem;
   }
   
-  /* 电脑：视频与文字垂直居中并排 */
   @media (min-width: 576px) {
     .sdm-block {
       display: flex;
