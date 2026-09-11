@@ -90,5 +90,5 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
   <video src="{{ '/assets/video/graph.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>Parallel AI Inference</b>: <br>For complex, high-dimensional data representations (e.g., graph structures), computation itself poses a serious challenge. My previous research addresses this through high-performance computing/parallel computing techniques, including: parallelizing Matrix Computation and <a href="https://ieeexplore.ieee.org/document/11105982">Graph Processing</a>.</p>
+  <p><b>Parallel AI Inference</b>: <br>For complex, high-dimensional data representations (e.g., graph structures), computation itself poses serious challenges in terms of performance and scalability. My previous research addresses this through high-performance/parallel computing techniques, including: parallelizing Matrix Computation and <a href="https://ieeexplore.ieee.org/document/11105982">Graph Processing</a>.</p>
 </div>
