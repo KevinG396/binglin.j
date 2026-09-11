@@ -41,13 +41,13 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
 
 
 <div class="row align-items-center">
-  <div class="col-sm-4 mb-3 mb-sm-0">
+  <div class="col-sm-3 mb-3 mb-sm-0">
     <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
            class="img-fluid rounded"
            style="width: 100%; aspect-ratio: 1 / 1;"
            autoplay muted loop playsinline preload="metadata"></video>
   </div>
-  <div class="col-sm-8" markdown="1">
+  <div class="col-sm-9" markdown="1">
 
 **Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for [Active Discovery/Sequential Decision Making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [<span style="color: #86C98F;">Expectation-Maximization via Doob's $h$-transform</span>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) for white-box decision making.
 
