@@ -74,8 +74,9 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
   <p>🌟 <b>Probabilistic Inference</b> <br>Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages some of these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Sampling</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Optimal Control over Drift</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Search Scheme</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Applied Stochastic Processes</span></a>.</p>
 </div>
 
-
+{% comment %}
 {% include figure.liquid path="assets/img/impfm_dark.png" width="93%" class="img-fluid d-block mx-auto" %}
+{% endcomment %}
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
