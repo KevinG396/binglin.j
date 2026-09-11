@@ -26,6 +26,17 @@ social: true # includes social icons at the bottom of the page
   .profile img {
     max-width: 85%;
   }
+  .sdm-video {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+  }
+  @media (max-width: 575.98px) {
+    .sdm-video {
+      width: 45%;
+      display: block;
+      margin: 0 auto;
+    }
+  }
 </style>
 
 I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I work on probabilistic AI, particularly principled and efficient probabilistic inference methods in high-dimensional space. I was advised by [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on AI inference and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI and sampling. Before coming to WashU, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn) and [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).
@@ -41,13 +52,12 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
 
 
 <div class="row align-items-center">
-  <div class="col-sm-3 mb-3 mb-sm-0">
+  <div class="col-sm-2 mb-3 mb-sm-0">
     <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
-           class="img-fluid rounded"
-           style="width: 100%; aspect-ratio: 1 / 1;"
+           class="img-fluid rounded sdm-video"
            autoplay muted loop playsinline preload="metadata"></video>
   </div>
-  <div class="col-sm-9" markdown="1">
+  <div class="col-sm10" markdown="1">
 
 **Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for [Active Discovery/Sequential Decision Making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [<span style="color: #86C98F;">Expectation-Maximization via Doob's $h$-transform</span>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) for white-box decision making.
 
