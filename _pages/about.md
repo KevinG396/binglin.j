@@ -67,7 +67,12 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 My goal is to design probabilistic models and sampling algorithms that are mathematically principled yet computationally efficient for high-dimensional inference. I'm always excited to collaborate, including but not limited to areas such as **AI for Science**, **Scientific Computing** and **Variational Inference**. My research interests lie in:
 
-🌟 **Probabilistic Inference**: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: [<span style="color: #FF8C00;">Sampling</span>](https://arxiv.org/abs/2607.01144), [<span style="color: #A582C8;">Optimal Control over Drift</span>](https://arxiv.org/abs/2607.01144), [Tree Search Scheme](http://arxiv.org/abs/2607.02915), and [<span style="color: #86C98F;">Applied Stochastic Processes</span>](https://arxiv.org/abs/2609.06761).
+<div class="sdm-block">
+  <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
+         class="sdm-video"
+         autoplay muted loop playsinline preload="metadata"></video>
+  <p>🌟 <b>Probabilistic Inference</b>: Sampling and variational inference for high-dimensional SDEs/ODEs provide a principled framework for solving <span style="color: #2DD4BF;"><b>Measure Transport</b></span> problems. My previous research leverages these techniques on probabilistic generative models (Diffusion/Flow/Consistency Models), including: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Sampling</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Optimal Control over Drift</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Search Scheme</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Applied Stochastic Processes</span></a>.</p>
+</div>
 
 
 {% include figure.liquid path="assets/img/impfm_dark.png" width="96%" class="img-fluid" %}
