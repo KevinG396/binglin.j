@@ -57,11 +57,10 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
            class="img-fluid rounded sdm-video"
            autoplay muted loop playsinline preload="metadata"></video>
   </div>
-  <div class="col-sm10" markdown="1">
-
-**Generative Modeling**: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for [Active Discovery/Sequential Decision Making](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html) and [<span style="color: #86C98F;">Expectation-Maximization via Doob's $h$-transform</span>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html) for white-box decision making.
-
+  <div class="col-sm-10">
+    <p><b>Generative Modeling</b>: Probabilistic generative models hold great potential for better modeling and solving active discovery/sequential decision-making problems in many scientific and engineering fields. My previous research leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #86C98F;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
   </div>
 </div>
+
 
 **Parallel AI Inference**: For complex, high-dimensional data representations (e.g., graph structures), computation itself poses a serious challenge. My previous research addresses this through parallel computing, including: parallelizing Matrix Computation and [Graph Processing](https://ieeexplore.ieee.org/document/11105982).
