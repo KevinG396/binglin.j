@@ -1,8 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Washington University in St. Louis</a>. 
+permalink: / # subtitle: <a href='#'>Washington University in St. Louis</a>. 
 
 profile:
   align: right
