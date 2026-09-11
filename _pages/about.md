@@ -75,7 +75,7 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
 </div>
 
 
-{% include figure.liquid path="assets/img/impfm_dark.png" width="96%" class="img-fluid" %}
+{% include figure.liquid path="assets/img/impfm_dark.png" width="90%" class="img-fluid" %}
 
 
 <div class="sdm-block">
