@@ -42,7 +42,7 @@ My goal is to design probabilistic models and sampling algorithms that are mathe
 
 <div class="row align-items-center">
   <div class="col-sm-4 mb-3 mb-sm-0">
-    <video src="{{ '/assets/video/grid.mp4' | relative_url }}"
+    <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
            class="img-fluid rounded"
            style="width: 100%; aspect-ratio: 1 / 1;"
            autoplay muted loop playsinline preload="metadata"></video>
