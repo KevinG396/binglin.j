@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: / 
-subtitle: <a href='#'>Washington University in St. Louis</a>. 
+subtitle: <a href='#'>Building efficient Probabilistic AI.</a>. 
 
 profile:
   align: right
