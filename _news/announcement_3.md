@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our paper [FGI: Fast GNN Inference on Multi-Core Systems
-](https://ieeexplore.ieee.org/abstract/document/11105982) is accepted by *Workshop on Graphs, Architectures, Programming, and Learning, IPDPS 2025* 🚀
+](https://ieeexplore.ieee.org/abstract/document/11105982) is accepted by **Workshop on Graphs, Architectures, Programming, and Learning, IPDPS 2025** 🚀
