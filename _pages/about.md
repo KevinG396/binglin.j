@@ -65,7 +65,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 ### Research Interests
 
-My goal is to design `generative models` and `sampling algorithms` that are mathematically principled yet computationally efficient for high-dimensional inference. I'm always excited to collaborate, including but not limited to areas such as **AI4Science**, **Scientific Computing**, **Optimal Transport** and **Variational Inference**. My research interests lie in:
+I'm working on `generative models` and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. I'm always excited to collaboratein on topics such as **AI4Science**, **Scientific Computing**, **Optimal Transport** and **Variational Inference**. My research interests lie in:
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
