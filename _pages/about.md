@@ -90,5 +90,5 @@ I'm working on `generative models` and `sampling algorithms` that are mathematic
   <video src="{{ '/assets/video/graph.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>Parallel AI Inference</b> <br>Sparse, irregular structure in high-dimensional data (e.g., graph-structured data) makes computation itself the bottleneck, both numerically and at scale. My work addresses this through multi-threaded parallelism on shared-memory systems, including: <a href="https://ieeexplore.ieee.org/document/11105982"><span style="color: #86C98F;">Accelerating Graph Processing</span></a> and Parallelizing Matrix Computation.</p>
+  <p><b>Parallel AI Inference</b> <br>Sparse, irregular structure in high-dimensional data (e.g., graph-structured data) makes computation itself the bottleneck, both numerically and at scale. My work addresses this through high-performance/parallel computing techniques, including: <a href="https://ieeexplore.ieee.org/document/11105982"><span style="color: #86C98F;">Accelerating Graph Processing with Multi-threaded Parallelism</span></a> and Parallelizing Matrix Computation.</p>
 </div>
