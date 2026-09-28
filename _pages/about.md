@@ -79,7 +79,7 @@ I'm working on `generative models` and `sampling algorithms` that are mathematic
   <video src="{{ '/assets/video/mol.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>AI for Science</b> <br>Sampling offers a principled route to <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>scientific discovery</b></span>. In problems such as drug discovery and molecular design, candidates live in hybrid continuous–discrete spaces, feedback is sparse and costly, and rewards are black-box. Working closely with domain scientists, I bring sampling methods to these problems, tilting pretrained generative models toward rare or high-value regions under these conditions.</p>
+  <p><b>AI for Science</b> <br>Sampling offers a principled route to <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>scientific discovery</b></span>. In problems like drug discovery and molecular design, candidates live in hybrid continuous–discrete spaces, feedback is sparse and costly, and rewards are black-box. Working closely with domain scientists, I bring sampling methods to these problems, tilting pretrained generative models toward rare or high-value regions under these conditions.</p>
 </div>
 
 {% comment %}
