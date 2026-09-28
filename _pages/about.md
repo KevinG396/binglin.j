@@ -74,6 +74,14 @@ I'm working on `generative models` and `sampling algorithms` that are mathematic
   <p>🌟 <b>Probabilistic Inference</b> <br>Probabilistic inference provides the main machinery for <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>dynamical measure transport</b></span>&mdash;how one probability measure is driven into another. My work develops sampling and variational inference methods over high-dimensional SDEs/ODEs, making transport efficient and controllable in Diffusion/Flow/Consistency models: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Sampling</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Interacting Particle Drift Correction</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Search</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Heavy-tailed Exploration</span></a>.</p>
 </div>
 
+
+<div class="sdm-block">
+  <video src="{{ '/assets/video/mol.mp4' | relative_url }}"
+         class="sdm-video"
+         autoplay muted loop playsinline preload="metadata"></video>
+  <p><b>AI for Science</b> <br>Empowered by sampling, we approach <span style="color: #2DD4BF;"><b>scientific discovery</b></span>&mdash;such as drug and molecule discovery&mdash;as inference over spaces where standard methods fall short: targets live in complex continuous&ndash;discrete modalities, feedback is sparse and costly, and rewards are black-box. My work steers generative models toward rare, high-value regions under these constraints.</p>
+</div>
+
 {% comment %}
 {% include figure.liquid path="assets/img/impfm_dark.png" width="93%" class="img-fluid d-block mx-auto" %}
 {% endcomment %}
