@@ -65,7 +65,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 ### Research Interests
 
-I'm working on `generative models` and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. I'm always excited to collaborate on topics such as **AI4Science**, **Scientific Computing** and **Variational Inference**. More specifically, my interests lie in:
+I'm working on `generative models` and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. Specifically, I have worked on:
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
@@ -100,3 +100,5 @@ I'm working on `generative models` and `sampling algorithms` that are mathematic
          autoplay muted loop playsinline preload="metadata"></video>
   <p><b>Parallel AI Inference</b> <br>Sparse, irregular structure in high-dimensional data (e.g., graph-structured data) makes computation itself the bottleneck, both numerically and at scale. My work addresses this through high-performance/parallel computing techniques, including: <a href="https://ieeexplore.ieee.org/document/11105982"><span style="color: #86C98F;">Accelerating Graph Processing with Multi-threaded Parallelism</span></a> and Parallelizing Matrix Computation.</p>
 </div>
+
+I'm always excited to collaborate on topics such as **AI4Science**, **Scientific Computing** and **Variational Inference**.
