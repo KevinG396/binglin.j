@@ -65,7 +65,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 
 ### Research Interests
 
-I'm working on `generative models`(flow matching and diffusion models) and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. Specifically, my work so far has focused on:
+I'm working on `generative models` (e.g. diffusion models) and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. Specifically, my work so far has focused on:
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
