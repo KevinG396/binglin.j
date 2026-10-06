@@ -6,8 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Here is my [Google Scholar profile](https://scholar.google.com/citations?user=o1ZPMvgAAAAJ).
-
+Here is my [Google Scholar profile](https://scholar.google.com/citations?user=o1ZPMvgAAAAJ). 
 (* **Equal** **contribution**)
 
 <!-- _pages/publications.md -->
