@@ -68,7 +68,7 @@ I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and 
 I'm working on `generative models` (e.g. diffusion models) and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces, with applications to AI4Science and sequential decision-making. Specifically, my work so far has focused on:
 
 <div class="sdm-block">
-  <video src="{{ '/assets/video/transport.mp4' | relative_url }}"
+  <video src="{{ '/assets/video/sampling.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
   <p>🌟 <b>Generative Modeling and Sampling</b> <br>Diffusion and flow models provide <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>dynamical measure transport</b></span> through high-dimensional SDEs/ODEs, driving a simple reference measure into the data distribution. Building on this transport, my work develops sampling methods that steer it toward target distributions efficiently and controllably: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Monte Carlo Methods</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Interacting Particle Drift Correction</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Sampling</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Heavy-tailed Exploration</span></a>.</p>
