@@ -90,7 +90,7 @@ I'm working on `generative models` (e.g. diffusion models) and `sampling algorit
   <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-    <p><b>Generative Modeling for Decision Making</b> <br>Generative models offer a tractable way to represent <b>uncertainty</b> in high-dimensional spaces, and thereby hold great potential for sequential decision-making problems. My work leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
+    <p><b>Generative Modeling for Sequential Decision Making</b> <br>Generative models offer a tractable way to represent <b>uncertainty</b> in high-dimensional spaces, and thereby hold great potential for sequential decision-making problems. My work leverages these models for this purpose, including: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
 </div>
 
 
