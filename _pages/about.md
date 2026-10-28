@@ -62,7 +62,6 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 I'm Binglin (Kevin) Ji, a recent master's student in Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I have broad research interests in <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>generative modeling and probabilistic inference</b></span>, including diffusion models, sampling, and generative approaches to active data acquisition and sequential decision making.
-
 At WashU, I worked with [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on high-performance computing and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI. Before that, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences (Beijing)](http://english.ia.cas.cn) and the Robotics Lab at [Lenovo Research](https://www.lenovo.com/gb/en/about/innovation/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AYCX9vJEhJt8voo6tpWLcb6YyhHJw5LC9YgvIFkyOmD3Ycx6qO_e1XO4).
 
 ### Research Interests
