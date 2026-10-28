@@ -67,7 +67,7 @@ At WashU, I worked with [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) 
 
 ### Research Interests
 
-I'm working on `generative models` (e.g. diffusion models) and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces, with applications to scientific discovery and sequential decision-making. Specifically, my work so far has focused on:
+I'm currently working on `generative models` (e.g. diffusion models) and `sampling algorithms` that are mathematically principled yet computationally efficient in high-dimensional spaces. My work so far has focused on:
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/sampling.mp4' | relative_url }}"
