@@ -39,7 +39,7 @@ social: true # includes social icons at the bottom of the page
     border-radius: 0.25rem;
   }
   
-  @media (min-width: 576px) {
+  @media (min-width: 500px) {
     .profile {
       width: 30% !important;
       max-width: 40rem !important;
