@@ -41,7 +41,7 @@ social: true # includes social icons at the bottom of the page
   
   @media (min-width: 500px) {
     .profile {
-      width: 26% !important;
+      width: 30% !important;
       max-width: 40rem !important;
     }
     .sdm-block {
