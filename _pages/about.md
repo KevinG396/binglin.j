@@ -74,14 +74,6 @@ I'm working on `generative models` (e.g. diffusion models) and `sampling algorit
   <p>🌟 <b>Generative Modeling and Sampling</b> <br>Diffusion and flow models provide <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>dynamical measure transport</b></span> through high-dimensional SDEs/ODEs, driving a simple reference measure into the data distribution. Building on this transport, my work develops sampling methods that steer it toward target distributions efficiently and controllably: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Monte Carlo Methods</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Interacting Particle Drift Correction</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Sampler</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Heavy-tailed Exploration</span></a>.</p>
 </div>
 
-
-<div class="sdm-block">
-  <video src="{{ '/assets/video/mol.mp4' | relative_url }}"
-         class="sdm-video"
-         autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>AI for Science</b> <br>Sampling offers a principled route to <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>scientific discovery</b></span>. In problems like drug discovery and molecular design, candidates live in hybrid continuous–discrete spaces, feedback is <strong>sparse</strong> and <strong>costly</strong>, and rewards are black-box. <strong>Working closely with domain scientists</strong>, I bring <a href="https://arxiv.org/abs/2607.02915"><span style="color: #FF8C00;">sampling methods</span></a> to these problems, tilting pretrained generative models toward rare or high-value regions under these conditions.</p>
-</div>
-
 {% comment %}
 {% include figure.liquid path="assets/img/impfm_dark.png" width="93%" class="img-fluid d-block mx-auto" %}
 {% endcomment %}
@@ -90,9 +82,15 @@ I'm working on `generative models` (e.g. diffusion models) and `sampling algorit
   <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-    <p><b>Generative Modeling for Sequential Decision Making</b> <br>Generative models offer a tractable way to represent <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>uncertainty</b></span> in high-dimensional spaces. My work leverages these models for this purpose and designs sampling policies grounded in <strong>Bayesian experimental design</strong>: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
+    <p><b>Sequential Decision Making under Uncertainty</b> <br>Generative models offer a tractable way to represent <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>uncertainty</b></span> in high-dimensional spaces. My work leverages these models for this purpose and designs sampling policies grounded in <strong>Bayesian experimental design</strong>: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
 </div>
 
+<div class="sdm-block">
+  <video src="{{ '/assets/video/mol.mp4' | relative_url }}"
+         class="sdm-video"
+         autoplay muted loop playsinline preload="metadata"></video>
+  <p><b>AI for Science</b> <br>Sampling offers a principled route to <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>scientific discovery</b></span>. In problems like drug discovery and molecular design, candidates live in hybrid continuous–discrete spaces, feedback is <strong>sparse</strong> and <strong>costly</strong>, and rewards are black-box. <strong>Working closely with domain scientists</strong>, I bring <a href="https://arxiv.org/abs/2607.02915"><span style="color: #FF8C00;">sampling methods</span></a> to these problems, tilting pretrained generative models toward rare or high-value regions under these conditions.</p>
+</div>
 
 <div class="sdm-block">
   <video src="{{ '/assets/video/graph.mp4' | relative_url }}"
