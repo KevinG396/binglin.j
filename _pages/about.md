@@ -41,7 +41,7 @@ social: true # includes social icons at the bottom of the page
   
   @media (min-width: 576px) {
     .profile {
-      width: 30% !important;      /* 默认通常约 30%,按需调大 */
+      width: 30% !important;
       max-width: 40rem !important;
     }
     .sdm-block {
