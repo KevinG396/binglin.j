@@ -105,3 +105,7 @@ I'm currently working on `generative models` (e.g. diffusion models) and `sampli
 </div>
 
 I'm always excited to collaborate on topics such as **AI4Science**, **Scientific Computing** and **Variational Inference**.
+
+### Service
+
+Conference Reviewer: NeurIPS 2026, ICLR 2027
