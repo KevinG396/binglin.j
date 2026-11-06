@@ -65,7 +65,7 @@ social: true # includes social icons at the bottom of the page
   }
 </style>
 
-I'm Binglin (Kevin) Ji, a master's student in both Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I have broad research interests in <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>probabilistic machine learning</b></span>, including generative modeling, sampling, and generative approaches to active data acquisition, scientific discovery and sequential decision making.
+I'm Binglin (Kevin) Ji, a master's student in both Electrical Engineering and Computer Engineering from [Washington University in St. Louis](https://washu.edu). I have broad research interests in <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>probabilistic methods</b></span> and <b>machine learning</b></span>, including generative modeling, sampling, and generative approaches to active data acquisition, scientific discovery and sequential decision making.
 At WashU, I worked with [Roger Chamberlain](https://www.ccrc.wustl.edu/~roger/) on high-performance computing and collaborated with [Yevgeniy Vorobeychik](https://engineering.washu.edu/faculty/Yevgeniy-Vorobeychik.html) on generative AI. Before that, I worked at National Laboratory of Pattern Recognition, [Institute of Automation, Chinese Academy of Sciences (Beijing)](http://english.ia.cas.cn) and the Robotics Lab at [Lenovo Research](https://www.lenovo.com/gb/en/about/innovation/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AYCX9vJEhJt8voo6tpWLcb6YyhHJw5LC9YgvIFkyOmD3Ycx6qO_e1XO4).
 
 ### Research Interests
@@ -76,7 +76,7 @@ I'm currently working on `generative models` (e.g. diffusion models) and `sampli
   <video src="{{ '/assets/video/sampling.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p>🌟 <b>Generative Modeling and Sampling</b> <br>Diffusion and flow models provide <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>dynamical measure transport</b></span> through high-dimensional SDEs/ODEs, driving a simple reference measure into the data distribution. Building on this transport, my work develops sampling methods that steer it toward target distributions efficiently and controllably: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Monte Carlo Methods</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Interacting Particle Systems</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Samplers</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Heavy-tailed Exploration</span></a>.</p>
+  <p>🌟 <b>Measure Transport and Sampling</b> <br>Generative models (like diffusion models) provide <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>dynamical measure transport</b></span> through high-dimensional SDEs, driving a simple reference measure into the data distribution. Building on this transport, my work develops sampling methods that steer it toward target distributions efficiently and controllably: <a href="https://arxiv.org/abs/2607.01144"><span style="color: #FF8C00;">Monte Carlo Methods</span></a>, <a href="https://arxiv.org/abs/2607.01144"><span style="color: #A582C8;">Interacting Particle Systems</span></a>, <a href="https://arxiv.org/abs/2607.02915">Tree Samplers</a>, and <a href="https://arxiv.org/abs/2609.06761"><span style="color: #86C98F;">Heavy-tailed Exploration</span></a>.</p>
 </div>
 
 {% comment %}
@@ -87,7 +87,7 @@ I'm currently working on `generative models` (e.g. diffusion models) and `sampli
   <video src="{{ '/assets/video/sdm.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-    <p><b>Generative Modeling for Decision Making</b> <br>Generative models offer a tractable way to represent <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>uncertainty</b></span> in high-dimensional spaces. My work leverages these models for this purpose and designs sampling policies grounded in <strong>Bayesian experimental design</strong>: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
+    <p><b>Sequential Decision Making</b> <br>A tractable way to represent <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>uncertainty</b></span> in high-dimensional spaces is crucial to decision making prblems. My work leverages generative models for this purpose and designs sampling policies grounded in <strong>Bayesian experimental design</strong>: Diffusion Models for <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ea8620683340facbd5f754dd169e0980-Abstract-Conference.html">Active Discovery/Sequential Decision Making</a> and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/5d5f4a2f5821c957ff9e4ff14ff37bb9-Abstract-Conference.html"><span style="color: #FF8C00;">Expectation-Maximization via Doob&rsquo;s \(h\)-transform</span></a> for white-box decision making.</p>
 </div>
 
 <div class="sdm-block">
@@ -101,7 +101,7 @@ I'm currently working on `generative models` (e.g. diffusion models) and `sampli
   <video src="{{ '/assets/video/graph.mp4' | relative_url }}"
          class="sdm-video"
          autoplay muted loop playsinline preload="metadata"></video>
-  <p><b>Parallel Computing</b> <br>Sparse, irregular structure in high-dimensional data (e.g., <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>graph-structured data</b></span>) makes computation itself the bottleneck, both numerically and at scale. My work addresses this through high-performance/parallel computing techniques, including: <a href="https://ieeexplore.ieee.org/document/11105982"><span style="color: #86C98F;">Accelerating Graph Processing</span></a> and <a href="https://arxiv.org/abs/2610.34911"><span style="color: #A582C8;">Matrix Computation with multi-threaded parallelism</span></a>.</p>
+  <p><b>Parallel Computing</b> <br>High-dimensional data with diverse structures (e.g., <span style="color: #2DD4BF; font-family: 'Georgia', serif;"><b>graph-structured data</b></span>) makes computation itself the bottleneck, both numerically and at scale. My work addresses this through high-performance/parallel computing techniques, including: <a href="https://ieeexplore.ieee.org/document/11105982"><span style="color: #86C98F;">Accelerating Graph Processing</span></a> and <a href="https://arxiv.org/abs/2610.34911"><span style="color: #A582C8;">Matrix Computation with multi-threaded parallelism</span></a>.</p>
 </div>
 
 I'm always excited to collaborate on topics such as **AI4Science**, **Scientific Computing** and **Variational Inference**.
